@@ -140,8 +140,8 @@ export function registerSettings() {
 		scope: 'world',
 		config: true,
 		type: String,
-		default: 'text-davinci-003',
-		choices: { 'text-davinci-003': 'text-davinci-003', 'text-curie-001': 'text-curie-001', 'text-babbage-001': 'text-babbage-001', 'text-ada-001': 'text-ada-001' }
+		default: 'gpt-3.5-turbo',
+		choices: { 'gpt-3.5-turbo' }
 	});
 
 	game.settings.register('ai-description-generator', 'api', {
