@@ -18,6 +18,6 @@
     "scripts/main.js"
   ],
   "url": "https://github.com/SethSabaku/FoundryVTT-AI-Description-Generator/blob/main/module.json",
-  "manifest": "https://github.com/SethSabaku/FoundryVTT-AI-Description-Generator/blob/main/module.json",
-  "download": "https://github.com/SethSabaku/FoundryVTT-AI-Description-Generator/blob/main/module.zip"
+  "manifest": "https://assets.forge-vtt.com/626afcad900fca5ad20c6225/modules/ai-description-generator/module.json",
+  "download": "https://assets.forge-vtt.com/626afcad900fca5ad20c6225/modules/ai-description-generator/module.zip"
 }
